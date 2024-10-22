@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bl": "^1.2.2",
+    "handlebars": "^3.0.7",
     "jquery": "^3.4.1",
     "lodash": "^4.17.21"
   }
